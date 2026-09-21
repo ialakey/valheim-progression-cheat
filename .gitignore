@@ -1,0 +1,9 @@
+# Build output goes straight into BepInEx/plugins, outside this folder.
+*.dll
+*.pdb
+*.user
+.vs/
+obj/
+bin/
+Thumbs.db
+desktop.ini
